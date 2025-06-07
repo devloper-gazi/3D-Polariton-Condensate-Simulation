@@ -198,11 +198,12 @@ Edit the top of gpe_3d_simulation.py to tweak grid size, Δt, V₀, g or steps.
 ├── README.md             # This document
 └── LICENSE               # MIT License
 ```
-# Unicode Quick-Reference
-  ● ubscripts: ₓ, ᵧ, 𝓏
-  ●  Superscripts: ²
-  ● Greek: π, Δ, σ
-  ● Fraction slash: ⁄
-  ●Approximation: ≈
+### Unicode Quick-Reference
+
+- Subscripts: ₓ, ᵧ, 𝓏  
+- Superscripts: ²  
+- Greek: π, Δ, σ  
+- Fraction slash: ⁄  
+- Approximation: ≈  
   
   Happy simulating! 🚀
