@@ -166,13 +166,10 @@ plt.show()
 
 4. Loop (steps)
 
--  ● Nonlinear + V (Δt/2)
-
--  ● FFT → kinetic phase → iFFT
-
--  ● Nonlinear + V (Δt/2)
-
--  ● Renormalise
+    - Nonlinear + V (Δt/2)
+    - FFT → kinetic phase → iFFT
+    - Nonlinear + V (Δt/2)
+    - Renormalise
 
 5. Density Extraction → |ψ|², central slice
 
